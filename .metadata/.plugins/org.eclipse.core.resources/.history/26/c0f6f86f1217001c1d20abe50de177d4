@@ -1,0 +1,15 @@
+package ReverseString;
+
+public class Reverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		String s="Reverse string by java";
+		
+	String str[]=	s.split(" ");
+		System.out.println(str.length);
+	}
+
+}

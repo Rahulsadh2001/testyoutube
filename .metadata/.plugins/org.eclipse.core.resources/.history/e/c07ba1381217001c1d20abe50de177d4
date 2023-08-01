@@ -1,0 +1,13 @@
+package ReverseString;
+
+public class Reverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		String s="Reverse string by java";
+		System.out.println(s.length());
+	}
+
+}
